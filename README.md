@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @codeStev
-- 👀 I’m interested in Frontend/Backend/Scripting and even non-dev stuff
+- 👀 I’m interested in Frontend/Backend/Scripting and even non-dev stuff (can you believe it !?)
 - DnD
 - video & Board games
 - 🌱 I’m currently learning groovy, Python
