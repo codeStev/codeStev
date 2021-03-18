@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @codeStev
 - 👀 I’m interested in Frontend/Backend/Scripting and even non-dev stuff
--DnD
--video & Board games
+-- DnD
+-- video & Board games
 - 🌱 I’m currently learning groovy, Python
 - 💞️ I’m looking to collaborate on interesting stuff where I can learn a lot, just hmu
 - 📫 How to reach me : codestev@outlook.com
