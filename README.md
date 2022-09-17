@@ -4,7 +4,7 @@
 - video & Board games
 - 🌱 I’m currently learning groovy, Python
 - 💞️ I’m looking to collaborate on interesting stuff where I can learn a lot, just hmu
-- 📫 How to reach me : codestev@outlook.com
+- 📫 How to reach me : contact@codestev.de
 
 <!---
 codeStev/codeStev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
