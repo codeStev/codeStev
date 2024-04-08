@@ -3,7 +3,6 @@
 - 👀 I’m interested in Frontend/Backend/Scripting
 - DnD
 - video & Board games
-- 🌱 I’m currently learning react native
 - I’m looking to collaborate on interesting stuff where I can learn a lot, just hmu
 - 📫 How to reach me : contact@codestev.de
 
